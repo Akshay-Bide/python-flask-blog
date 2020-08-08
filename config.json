@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/coding_thunder",
+        "prod_uri":"mysql://root:@localhost/coding_thunder",
+        "fb_url":"https://facebook.com/coding_thunder",
+        "twit_url":"https://twitter.com/coding_thunder",
+        "git_url":"https://github.com/coding_thunder",
+        "blog_name":"Reliance Blog",
+        "tag_line":"A Blog Liked by Jio Users...",
+        "gmail-user":"bideshweta@gmail.com",
+        "gmail-password":"shweta2611991",
+        "about_text":"Hi i am shweta virkar and im a good girl,hello everyone.....",
+        "number_of_posts":3,
+        "login_img":"login.jpg",
+        "admin_user":"shweta",
+        "admin_password":"virkar",
+        "upload_location":"G:\\python tutorial\\static\\img"
+    }
+}
